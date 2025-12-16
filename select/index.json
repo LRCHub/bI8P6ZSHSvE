@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "It's No Crime",
+  "base_artist": "Babyface",
+  "createdAt": "2025-12-16T06:55:15.291958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's No Crime",
+      "artist": "Babyface",
+      "has_synced": false,
+      "path": "select/01_It's_No_Crime_Babyface.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's No Crime (IJ Extended Mix)",
+      "artist": "Babyface",
+      "has_synced": false,
+      "path": "select/02_It's_No_Crime_(IJ_Extended_Mix)_Babyface.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It’s No Crime (Ij extended mix)",
+      "artist": "Babyface",
+      "has_synced": false,
+      "path": "select/03_It’s_No_Crime_(Ij_extended_mix)_Babyface.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's No Crime",
+      "artist": "Babyface",
+      "has_synced": true,
+      "path": "select/04_It's_No_Crime_Babyface.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's No Crime (7\" version)",
+      "artist": "Babyface",
+      "has_synced": true,
+      "path": "select/05_It's_No_Crime_(7__version)_Babyface.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Its No Crime",
+      "artist": "Babyface",
+      "has_synced": true,
+      "path": "select/06_Its_No_Crime_Babyface.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Its No Crime",
+      "artist": "Babyface",
+      "has_synced": false,
+      "path": "select/07_Its_No_Crime_Babyface.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's No Crime",
+      "artist": "Babyface",
+      "has_synced": true,
+      "path": "select/08_It's_No_Crime_Babyface.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's No Crime (IJ extended mix)",
+      "artist": "Babyface",
+      "has_synced": false,
+      "path": "select/09_It's_No_Crime_(IJ_extended_mix)_Babyface.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's No Crime",
+      "artist": "Babyface",
+      "has_synced": false,
+      "path": "select/pl_01_It's_No_Crime_Babyface.txt"
+    }
+  ]
+}
